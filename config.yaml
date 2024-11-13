@@ -1,0 +1,55 @@
+projectName: MojoAuth
+jsonFilePath: ./input.json
+baseUrl: https://mojoauth.com
+portalHeading: 'The Future is Passkey: Passwordless Logins with MojoAuth'
+portalDescription: >-
+  Quickly integrate passwordless authentication for web and mobile applications
+  to give users a smooth, secure login experience.
+portalTitle: MojoAuth - Passwordless Authentication
+searchPlaceholder: Search...
+useAlphabetsCategory: true
+homeLink: https://mojoauth.com/
+logoLink: https://mojoauth.com/
+ctaText: Get Started
+aboutLink: https://mojoauth.com/about
+productsLink: https://mojoauth.com/products
+logoImgUrl: https://mojoauth.com/assets/images/logo.png
+ctaLink: https://mojoauth.com/dashboard/signin
+copyrightText: Copyright 2023, MojoAuth
+faviconUrl: https://mojoauth.com/favicon.ico
+googleTagManagerId: GTM-59TNN3K
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/mojoauth
+  - platform: Twitter
+    url: https://twitter.com/mojoauth
+theme:
+  primaryColor: '#6929C4'
+  secondaryColor: '#FCDE2B'
+  backgroundColor: '#FFFFFF'
+  textColor: '#000000'
+  accentColor: '#FF5F56'
+fonts:
+  - family: Inter
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Arial
+    weights:
+      - 400
+      - 500
+      - 600
